@@ -43,3 +43,5 @@ class Varasto:
 
     def __str__(self):
         return f"saldo = {self.saldo}, vielä tilaa {self.paljonko_mahtuu()}"
+    def liikaaparametreja(self, x, y, z, d, e, a):
+        print("jee tämä on aivan liian pitkä rivi jee tämä on aivan liian pitkä rivi jee tämä on aivan liian pitkä rivi jee tämä on aivan liian pitkä rivi")
